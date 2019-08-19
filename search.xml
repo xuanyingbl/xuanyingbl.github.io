@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2019/08/19/2019-8-19/"/>
+      <url>/2019/08/19/2019-8-19/</url>
+      
+        <content type="html"><![CDATA[<div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=407679465&auto=1&height=66"></iframe></div><p>很久以前看到有朋友搭建了自己的博客，很羡慕，觉得是一个很好的记录工作、生活的平台，能够把工作中的一些经验进行分享。<br><img src="6.png" alt><br>对于电脑小白的我，一直都想搭建自己的博客。8月15日，在随意浏览网页的时候看到了“超详细Hexo+Github博客搭建小白教程”这篇文章，顿然一阵欣喜。于是，按照里面的详细步骤开始搭建博客。<br><img src="9.jpg" alt><br>在搭建博客这几天，遇到一些问题，比如生成静态网页的时候经常出现错误，打开本地服务器的时候遇到不可连接等等问题，对于小白的我来说，只有不断的百度，不断的修改代码，终于完整的搭建了自己的博客。<br><img src="8.png" alt><br>今后，我会把搭建博客遇到的实际问题一一罗列，可以让同样小白的你少走弯路。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>二零一七年终总结</title>
       <link href="/2018/01/22/2017-conclusion/"/>
       <url>/2018/01/22/2017-conclusion/</url>

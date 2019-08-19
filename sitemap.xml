@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xuanyingbl.github.io/2019/08/19/2019-8-19/</loc>
+    
+    <lastmod>2019-08-19T13:13:04.949Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xuanyingbl.github.io/about/index.html</loc>
     
     <lastmod>2019-08-18T19:59:22.130Z</lastmod>
@@ -23,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://xuanyingbl.github.io/categories/index.html</loc>
-    
-    <lastmod>2019-08-15T04:44:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://xuanyingbl.github.io/archives/index.html</loc>
     
     <lastmod>2019-08-15T04:44:10.000Z</lastmod>
@@ -44,7 +44,7 @@
   </url>
   
   <url>
-    <loc>https://xuanyingbl.github.io/friends/index.html</loc>
+    <loc>https://xuanyingbl.github.io/categories/index.html</loc>
     
     <lastmod>2019-08-15T04:44:10.000Z</lastmod>
     
@@ -52,6 +52,13 @@
   
   <url>
     <loc>https://xuanyingbl.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-08-15T04:44:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xuanyingbl.github.io/friends/index.html</loc>
     
     <lastmod>2019-08-15T04:44:10.000Z</lastmod>
     
